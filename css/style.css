@@ -1151,6 +1151,37 @@ td .th-champs {
     margin-right: 2px;
 }
 
+.footer {
+    background-color: black;
+    padding: 20px;
+    margin-top: 20px;
+    width: 100%;
+    height: 15vh;
+}
+
+.copyright {
+    background: black;
+    width: 100%;
+}
+
+.copyright h3 {
+    font-size: 10px;
+    color: #B29B55;
+    background: black;
+}
+
+.copyright p {
+    font-size: 10px;
+    color: #B29B55;
+    background: black;
+}
+
+.copyright span {
+    font-size: 10px;
+    color: #B29B55;
+    background: black;
+}
+
 html {
     scroll-behavior: smooth;
 }
